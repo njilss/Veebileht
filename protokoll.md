@@ -21,6 +21,7 @@ infoallikate kogu koostamine ja ülesannete ära jagamine:
 ### Järgmiseks koosolekuks valmis (15.11.23):
  *   Igaühel on olemas veebileht omal valitud teemal (Nilsil pealeht, Riikal toitumise kohta leht, Annabelil aktsiivse elu kohta leht)
  *   Annabelil on olemas visoon CSS'ist ehk miuke võiks veebileht välja näha (nt paberil valmis joonistatud, või canvases vms), ideaalis on see juba Annabeli enda koostatud lehega seotud
+     *  https://css-tricks.com/css-only-carousel/ - abinõu CSS'i kasutamiseks
  *   Olemas kasutatud allikate fail - Riika tegeleb
  *   Nilsil valmis demo versioon pealehest (sissejuhatus, illustratsioon teemal tervis ja healou, suunavad tekstid järgmistele lehtedele, kasutatud allikad (**linkidena!**) koos autori nime ja pealkirjaga!
 
