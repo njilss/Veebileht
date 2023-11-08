@@ -4,7 +4,7 @@ korras
 ## Kirjeldus ideest 6ndaks novembriks
 Kirjeldus - infovoldik teemal Tervis ja heaolu
 ## II koosolek 8. nov
-Räägime Branch'idest
+Räägime Branch'idest - Riika rääkis
 
 Räägime CSS'ist
 
