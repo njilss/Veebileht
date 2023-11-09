@@ -5,3 +5,7 @@
 .toidupüramiid img {
     margin-right: 10px; /* Lisa soovitud vahe piltide vahele */
 }
+
+.tumekollane {
+    color: rgb(221, 165, 10); /* Määrab teksti värvi tumekollaseks */
+}
