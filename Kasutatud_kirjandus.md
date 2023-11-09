@@ -7,6 +7,9 @@ Tervise Arengu Instituut "Soovitused tervislikuks toitumiseks" (https://toitumin
 
 ## Toitumine
 (Riika lisatud allikad)
+Tervise Arengu Instituut, "Toidupüramiid", "Kuidas tervislikult toituda" [toitumine.ee](https://toitumine.ee/)
+
+Star Cloud OÜ "Tervislik eluviis" [opiq.ee](https://www.opiq.ee/kit/281/chapter/15793)
 
 ## Aktiivsus
 (Annabeli lisatud allikad)
