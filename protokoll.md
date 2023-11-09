@@ -24,6 +24,7 @@ infoallikate kogu koostamine ja ülesannete ära jagamine:
      * https://codepen.io/surajbws/pen/zmNdmy
      * https://www.w3schools.com/w3css/w3css_slideshow.asp
      * https://dev.to/shantanu_jana/automatic-image-slideshow-in-html-css-26jl
+     * **https://developers.google.com/fonts/docs/getting_started** - fondi valmini
 
  *   Annabelil on olemas visoon CSS'ist ehk miuke võiks veebileht välja näha (nt paberil valmis joonistatud, või canvases vms), ideaalis on see juba Annabeli enda koostatud lehega seotud
      *  https://css-tricks.com/css-only-carousel/ - abinõu CSS'i kasutamiseks
