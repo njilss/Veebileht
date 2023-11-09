@@ -5,6 +5,7 @@ Inimene vajab piisavalt energiat ja mitmekülgsete toitainete tarbimist, et toet
 Üks tasakaalustamata toitumise tagajärgi on kaaluprobleemide teke. Kui organism ei saa vajalikke toitaineid piisavalt, võib see viia liigse söömisele, kuna organism üritab kompenseerida puuduvate toitainete puudust.
 
 Õige toitumine on väga tähtis. Oluline on süüa mitme-külgselt, et oleksid terve. 
+
 Teie ees on kaks toidupüramiidi, mis katab toiduvalikumenüü nädala peale. Vaadake neid ning proovige võrrelda nende erinevust.
 
 ![tegelik](image-1.png)
@@ -32,3 +33,5 @@ Kui esineb erilisi terviseprobleeme, nagu allergiad, toidutalumatus või kroonil
 
 ### Kasutatud kirjandus
 Toidupüramiidide kohta leiab infot: Tervise Arengu Instituut, "Toidupüramiid", "Kuidas tervislikult toituda" https://toitumine.ee/
+
+https://www.opiq.ee/kit/281/chapter/15793

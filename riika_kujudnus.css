@@ -1,0 +1,7 @@
+.toidupüramiid {
+    display: flex; /* Kasutame paindlikku paigutust */
+}
+
+.toidupüramiid img {
+    margin-right: 10px; /* Lisa soovitud vahe piltide vahele */
+}
