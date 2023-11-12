@@ -36,3 +36,8 @@ th {
     background-color: #0077cc;
     color: #fff;
 }
+
+img {
+    max-width: 40%;
+    height: auto;
+    }
