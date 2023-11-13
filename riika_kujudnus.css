@@ -14,18 +14,43 @@
 
 .toidupüramiid img {
     margin-right: 10px; /* Lisa soovitud vahe piltide vahele */
+    max-width: 50%;
+    height: auto;
 }
 
-.tumekollane {
-    color: rgb(221, 165, 10); /* Määrab teksti värvi tumekollaseks */
+.sinine {
+    color: #0077cc; /* Määrab teksti värvi tumekollaseks */
     font-weight: bold;
-    text-shadow: 2px 2px 0px #000, -2px -2px 0px #000, 2px -2px 0px #000, -2px 2px 0px #000;
-    background-color: #f5f4f4; 
+    /*background-color: rgb(253, 253, 252); */
 }
 
 body {
-    font-family: "Questrial", serif;
-    /* "Fontinimi" on valitud font, "sans-serif" on varuvõimalus juhuks, kui esimest fonti pole saadaval */
-    font-size: 48px;
-    text-shadow: 4px 4px 4px #d6d6d6;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    background-color: azure;
+    color: #333;
+    /*text-shadow: 4px 4px 4px #d6d6d6;*/
 }
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #0077cc;
+    color: #fff;
+}
+
+img {
+    max-width: 30%;
+    height: auto;
+    }
