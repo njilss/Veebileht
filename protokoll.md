@@ -32,3 +32,11 @@ infoallikate kogu koostamine ja ülesannete ära jagamine:
  *   Nilsil valmis demo versioon pealehest. Sissejuhatus, illustratsioon teemal tervis ja healou, suunavad tekstid järgmistele lehtedele, kasutatud allikad (**linkidena!**) koos autori nime ja pealkirjaga!
 
 ## III koosolek 15. nov
+*   Parandmae nilsi lehta
+*   Kasutatud allikad lisatu järgmiseks korraks
+*   järgmiseks korraks valmis:
+    * teha nupp, et sellele klikkida -> pealehel pilt muutub heledamaks, kui selle lohistada hiirt
+    * lingid lisada kõrvallehtedele - proovime
+    * nils näitab nupu dünaamilisuse ette
+    
+
