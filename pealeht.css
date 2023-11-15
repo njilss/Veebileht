@@ -45,3 +45,10 @@ img {
 a {
     text-decoration: none;
 }
+
+#modImg {
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+#modImg:hover {opacity: 0.65;}
