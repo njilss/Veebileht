@@ -40,5 +40,13 @@ th {
 img {
     max-width: 30%;
     height: auto;
-    }
+}
 
+.pealehele {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #0077cc;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    margin-top: 5px;}
