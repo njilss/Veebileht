@@ -50,3 +50,10 @@ img {
     text-decoration: none;
     border-radius: 8px;
     margin-top: 5px;}
+
+#modImg {
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+#modImg:hover {opacity: 0.65;}
