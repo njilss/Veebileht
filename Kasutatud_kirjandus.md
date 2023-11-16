@@ -27,3 +27,10 @@ https://www.ravida.ee/wp-content/uploads/2019/10/viljad-1024x713.jpeg
 2. Pilt liikumine (meesjookseb):
 npr "Running And Your Heart: Is There A 'Too Much?'" 
 https://media.npr.org/assets/img/2017/07/26/istock-636342222-dfdae3ccda7619165d470f319c927a74b7e627d9-s1200-c85.webp
+
+
+
+
+    <footer id="modImg">
+        <a href="pealeht.html" class="pealehele">Tagasi pealehele</a>
+    </footer>
