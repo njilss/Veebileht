@@ -38,44 +38,22 @@ th {
 }
 
 img {
-    max-width: 40%;
+    max-width: 30%;
     height: auto;
 }
 
-.amod {
+.pealehele {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #0077cc;
+    color: white;
     text-decoration: none;
-}
+    border-radius: 8px;
+    margin-top: 5px;}
 
 #modImg {
     cursor: pointer;
     transition: 0.2s;
 }
 
-#modImg:hover {
-    opacity: 0.65;
-}
-
-.navBar {
-    background-color: #0077cc;
-    overflow: hidden;
-}
-
-.navBar a {
-    color: #fff;
-    float: left;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 17px;
-    cursor: pointer;
-    transition: 0.3s;
-}
-
-.navBar a:hover {
-    background-color: #1fa6df;
-}
-
-.navBar a.active {
-    background-color: lightskyblue;
-    color: black;
-}
+#modImg:hover {opacity: 0.65;}
