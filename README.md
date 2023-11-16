@@ -10,3 +10,8 @@ Nils Jaagup Peters
 
 Annabel Aleksius
 ## Milline on tiimisisene tööjaotus?
+
+|Nils Jaagup Peters |Riika Seeba   | Annabel Aleksius  |
+|---|---|---|
+| Pealeht  | 1. kõrvalleht: toitumine  | 2. kõrvalleht: aktiivsus  |
+| tehniliste oskuste õpetamine ja rakendamine | githubi ja korraldusliku poole korras hoidmine  | ühise kujunduse koostamine  |
