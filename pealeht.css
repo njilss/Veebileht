@@ -62,12 +62,13 @@ img {
 
 .navBar a {
     color: #fff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     float: left;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
     font-size: 17px;
-    cursor: pointer;
+    cursor: pointer; 
     transition: 0.3s;
 }
 
