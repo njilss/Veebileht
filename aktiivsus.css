@@ -1,47 +1,4 @@
 
-body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin: 20px;
-    padding: 20px;
-    background-color: azure;
-    color: #333;
-}
-
-h1, h2, h3 {
-    color: #0077cc;
-}
-
-ul, ol {
-    list-style-type: none;
-    padding: 0;
-}
-
-li {
-    margin-bottom: 10px;
-}
-
-table {
-    width: 100%;
-    border-collapse: collapse;
-    margin-top: 20px;
-}
-
-th, td {
-    border: 1px solid #ddd;
-    padding: 10px;
-    text-align: left;
-}
-
-th {
-    background-color: #0077cc;
-    color: #fff;
-}
-
-img {
-    max-width: 30%;
-    height: auto;
-}
-
 .pealehele {
     display: inline-block;
     padding: 10px 20px;
