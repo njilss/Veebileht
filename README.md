@@ -1,4 +1,4 @@
-# Veebileht-HvMfd
+# Veebilehe grupp HvMfd
 ## Mida veebileht tutvustab või mis on selle lehe eesmärk?
 Veebileht tutvustab tervise ja heaoluga seotud artikleid ja jagab nõuandeid, milline võiks välja näha tervislik eluviis. 
 
