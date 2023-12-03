@@ -1,4 +1,9 @@
+Täpsema info leiab meie repositooriumi wikist: https://github.com/njilss/Veebileht/wiki
+
 # Veebilehe grupp HvMfd
+
+https://kodu.ut.ee/~riika/Veebileht/pealeht.html
+
 ## Mida veebileht tutvustab või mis on selle lehe eesmärk?
 Veebileht tutvustab tervise ja heaoluga seotud artikleid ja jagab nõuandeid, milline võiks välja näha tervislik eluviis. 
 
