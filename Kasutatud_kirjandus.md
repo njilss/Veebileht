@@ -23,11 +23,10 @@ Star Cloud OÜ "Tervislik eluviis" [opiq.ee](https://www.opiq.ee/kit/281/chapter
 (Nilsi lisatud allikad)
 1. Pilt toitumine (söökpilt):
 Ravida kliinik "vähihaige toitumine"
-https://www.ravida.ee/wp-content/uploads/2019/10/viljad-1024x713.jpeg
+https://www.ravida.ee/vahihaige-toitumine/
 2. Pilt liikumine (meesjookseb):
 npr "Running And Your Heart: Is There A 'Too Much?'" 
-https://media.npr.org/assets/img/2017/07/26/istock-636342222-dfdae3ccda7619165d470f319c927a74b7e627d9-s1200-c85.webp
-
+https://www.npr.org/sections/13.7/2017/07/26/539458731/running-and-your-heart-is-there-a-too-much
 
 
 
